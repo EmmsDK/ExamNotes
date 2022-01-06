@@ -2,6 +2,12 @@ package Logic;
 
 public class IfThenEct {
 
+            /*
+        || = or
+        && = and
+        !  = not
+         */
+
     public static void main(String[] args) {
 
         // Basic If Statement
