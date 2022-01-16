@@ -4,6 +4,6 @@ public class Main {
 
     static void myMethod(){
 
-        //Code to be executed
+        Math.min(3,-2);
     }
 }
