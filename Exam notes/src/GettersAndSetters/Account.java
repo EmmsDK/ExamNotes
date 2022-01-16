@@ -18,12 +18,6 @@ public class Account {
         a.printDetails();
     }
 
-
-    static String printDetails() {
-        System.out.println(name + " , " + age);
-        return null;
-    }
-
     public String getName(String name) {
         return name;
     }
@@ -40,5 +34,8 @@ public class Account {
         this.age = age;
     }
 
+    public void printDetails() {
+        System.out.println(name + " , " + age);
+    }
 
 }
